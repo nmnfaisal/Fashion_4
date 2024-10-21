@@ -1,18 +1,4 @@
-#*.iml
-#.gradle
-#/local.properties
-#/.idea/caches
-#/.idea/libraries
-#/.idea/modules.xml
-#/.idea/workspace.xml
-#/.idea/navEditor.xml
-#/.idea/assetWizardSettings.xml
-#.DS_Store
-#/build
-#/captures
-#.externalNativeBuild
-#.cxx
-#local.properties
+
 
 # Gradle
 .gradle/
@@ -23,15 +9,13 @@ build/
 # Android Studio
 .idea/
 *.iml
-.idea/**/workspace.xml
-.idea/**/tasks.xml
-.idea/**/modules.xml
-.idea/**/vcs.xml
-.idea/**/navEditor.xml
-.idea/**/libraries
-.idea/caches
-.idea/libraries
+.idea/workspace.xml
+.idea/tasks.xml
 .idea/modules.xml
+.idea/vcs.xml
+.idea/navEditor.xml
+.idea/libraries
+.idea/caches
 .idea/.name
 .idea/compiler.xml
 .idea/assetWizardSettings.xml
