@@ -1,4 +1,4 @@
-# Maleyat Trial Task
+# Trial Task
 
 This test project contains all functionality that was requested in the document. More details are mentioned below.
 
