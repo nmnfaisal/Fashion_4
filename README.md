@@ -31,11 +31,3 @@ Separate Data classes have been made for each layer and data source.
 
 **Clean-MVVM:** https://www.youtube.com/watch?v=8YPXv7xKh2w&t=1322s **by Philipp Lackner**
 
-**Testing:**
-
-https://developer.android.com/training/data-storage/room/testing-db
-
-https://developer.android.com/jetpack/compose/testing
-
-https://developer.android.com/codelabs/jetpack-compose-testing
-
